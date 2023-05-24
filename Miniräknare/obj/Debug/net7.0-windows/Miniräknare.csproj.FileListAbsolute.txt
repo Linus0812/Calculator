@@ -1,0 +1,17 @@
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\bin\Debug\net7.0-windows\Miniräknare.exe
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\bin\Debug\net7.0-windows\Miniräknare.deps.json
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\bin\Debug\net7.0-windows\Miniräknare.runtimeconfig.json
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\bin\Debug\net7.0-windows\Miniräknare.dll
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\bin\Debug\net7.0-windows\Miniräknare.pdb
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\Miniräknare.csproj.AssemblyReference.cache
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\Miniräknare.Form1.resources
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\Miniräknare.csproj.GenerateResource.cache
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\Miniräknare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\Miniräknare.AssemblyInfoInputs.cache
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\Miniräknare.AssemblyInfo.cs
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\Miniräknare.csproj.CoreCompileInputs.cache
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\Miniräknare.dll
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\refint\Miniräknare.dll
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\Miniräknare.pdb
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\Miniräknare.genruntimeconfig.cache
+C:\Users\linus.andersson23\Desktop\Prog2\C#\Miniräknare\obj\Debug\net7.0-windows\ref\Miniräknare.dll
